@@ -13,7 +13,7 @@
 * books kısmı eklendi ordered list oluşturuldu. Flex ile ortalandı.
 * Footer eklendi
 ## Github page ile yayınlandı.
-### [Bu link ile ulaşabilirsiniz]()
+### [Bu link ile ulaşabilirsiniz](https://kubilaydin.github.io/H2-Tribute-Website/)
  
 ## Özel Yapılan İçerikler Şunlardır..
 `utils.css` ile sabit cod değişkenleri eklendi.
